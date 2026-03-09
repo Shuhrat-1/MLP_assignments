@@ -1,5 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shuhrat-1/MLP_assignments/blob/main/assignment_1.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shuhrat-1/MLP_assignments/blob/main/assignment_1_wine_quality/assignment_1.ipynb)
 
 # Wine Quality Prediction
 
